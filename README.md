@@ -3,7 +3,7 @@
 I'm Agustin, a software engineer from Argentina. I'm passionate about learning and building things.
 
 - 🔭 I’m currently working on my personal portfolio (coming soon)
-- 🌱 I’m currently learning Cairo
+- 🌱 I’m currently learning Functional Programming with Effect.ts
 - 💬 Ask me about software engineering, cloud computing, and distributed systems.
 - 🛠️ I'm looking to collaborate on open-source projects and to learn from the community.
 - ⚡ Fun fact: I love to play video games and the motorsports world 🏎️
